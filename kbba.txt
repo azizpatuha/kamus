@@ -1462,7 +1462,7 @@ bgttt	sekali
 smpe	sampai
 iniii	ini
 step	langkah
-apaaan  apaan
-gada  tidak
-apl  aplikasi
-erorr  eror
+apaaan	apaan
+gada	tidak
+apl	aplikasi
+erorr	eror
